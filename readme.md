@@ -12,7 +12,7 @@ This project is a simple web application that changes the background color of th
 1. Clone the repository to your local machine:
 
     ```sh
-    git clone https://github.com/yourusername/random-color-generator.git
+    git clone https://github.com/vijayashanmuga/random-color-generator.git
     ```
 
 2. Navigate to the project directory:
