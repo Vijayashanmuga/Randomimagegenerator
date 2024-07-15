@@ -43,5 +43,11 @@ function changeBackground() {
 setInterval(changeBackground, 1000);
 
 
-https://github.com/user-attachments/assets/3cff3bca-040f-4537-aef2-ed8837d5c6bb
+
+![video](https://github.com/user-attachments/assets/c4c86305-c425-43af-9def-45e7854a816c)
+
+![image](https://github.com/user-attachments/assets/da8f71dd-4a05-48a8-b08c-9a1d27b1e891)
+
+
+
 
